@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        FUT Enhancer
 // @version     VERSION
-// @description Enhances the FIFA Ultimate Team 21 Web app. Includes Futbin integration and other useful tools
+// @description Enhances the FIFA Ultimate Team 22 Web app. Includes Futbin integration and other useful tools
 // @license     MIT
 // @author      Tim Klingeleers
 // @match       https://www.ea.com/fifa/ultimate-team/web-app/*
